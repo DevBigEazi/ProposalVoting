@@ -84,5 +84,4 @@ contract ProposalVote {
         quorum_ = currentProposal.quorum;
         status_ = currentProposal.status;
     }
-
 }
